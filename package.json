@@ -1,0 +1,16 @@
+{
+	"name": "viniciusgoneli",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"dev": "npx next dev"
+	},
+	"author": "",
+	"license": "MIT",
+	"dependencies": {
+		"next": "^13.4.7",
+		"react": "^18.2.0",
+		"react-dom": "^18.2.0"
+	}
+}
